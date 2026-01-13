@@ -69,5 +69,5 @@ Ha jól írtad meg, a kimenet **MINDIG** szabályos ping-pong lesz, soha nem kev
 gcc ping_pong.c -o ping_pong -pthread
 ./ping_pong
 ```
-
+ 
 **Jó munkát!** Ez az egyik legklasszikusabb szinkronizációs feladat. 🎯

@@ -113,4 +113,17 @@ man sem_overview
 
 ---
 
+## Leadandó (egységes)
+
+Kérlek, készíts EGY közös jelentést a repo gyökerében `lab03_jelentes.txt` néven, rövid, tömör pontokban:
+- 1. feladat: mit figyeltél meg a `fork()` utáni kimenetek sorrendjéről (1-2 mondat).
+- 2. feladat: zombi megfigyelése `wait()` nélkül, majd `wait()`-tel (1-2 mondat).
+- 3. feladat: a race condition eredményeinek összefoglalása (néhány szám, 1 mondat magyarázat, hogy a `counter++` nem atomi).
+- 4. feladat: szemaforral védett verzió eredménye (várt 200000) és rövid megjegyzés a hatásáról.
+- Házi: igazold, hogy a ping-pong váltakozás helyes (1 rövid kimenetrészlet vagy leírás).
+
+Nem kell részletes válaszokat írni, elég rövid megfigyelések és következtetések.
+
+---
+
 **Jó munkát!** 🚀

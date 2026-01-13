@@ -18,6 +18,8 @@ Megérteni, hogyan működik a `fork()` rendszerhívás, és hogy a kód két he
    - Ha pozitív: te vagy a szülő (a szám a gyerek PID-je)
 4. Írd ki mindkét folyamat adatait (PID, PPID)
 
+ 
+
 ## Fordítás és futtatás
 
 ```bash
